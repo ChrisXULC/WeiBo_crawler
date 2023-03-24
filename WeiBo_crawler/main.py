@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+# file: main.py
+# time: 2023/3/24
+# author: Chris, XU <chrisxulc@163.com> (Langcheng XU)
+# github: https://github.com/ChrisXULC
+# Copyright (C) 2021. All Rights Reserved.
 import os
 import re 
 from jsonpath import jsonpath  
